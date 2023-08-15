@@ -9,6 +9,6 @@ Hello, I'm Julia Kućmierczyk, an enthusiastic front-end developer-to-be, charme
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JuliaKucmierczyk&theme=buefy" />
 </a>
 <a href="https://github.com/JuliaKucmierczyk/README.md">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuliaKucmierczyk&layout=compact&langs_count=8&theme=buefy" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuliaKucmierczyk&layout=compact&langs_count=8&theme=buefy&card_width=320" />
 </a>
 
