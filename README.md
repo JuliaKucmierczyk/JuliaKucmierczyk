@@ -1,8 +1,8 @@
 # Hey there! 👋
-Hello, I'm Julia Kućmierczyk, an enthusiastic front-end developer-to-be, charmed by the art of web development. I'm all about crafting polished, interactive web designs that dance and dazzle. Let's sprinkle some creativity on the web! 🎨✨
+Hello, I'm Julia Kućmierczyk, an enthusiastic developer-to-be, charmed by the art of programming. Let's sprinkle some creativity on the web! 🎨✨
 
 ## Tech Stack & Skills 💅🏼
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,figma,cs,java,vite,vitest)](https://skillicons.dev)
 
 ## Github Stats 📈
 <a href="https://github.com/JuliaKucmierczyk/README.md">
