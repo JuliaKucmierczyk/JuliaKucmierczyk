@@ -6,9 +6,9 @@ Hello, I'm Julia Kućmierczyk, an enthusiastic developer-to-be, charmed by the a
 
 ## Github Stats 📈
 <a href="https://github.com/JuliaKucmierczyk/README.md">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JuliaKucmierczyk&theme=buefy" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=JuliaKucmierczyk&theme=buefy" />
 </a>
 <a href="https://github.com/JuliaKucmierczyk/README.md">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuliaKucmierczyk&layout=compact&langs_count=8&theme=buefy" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuliaKucmierczyk&layout=compact&langs_count=8&theme=buefy" />
 </a>
 
